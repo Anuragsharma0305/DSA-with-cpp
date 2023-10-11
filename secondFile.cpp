@@ -6,7 +6,7 @@ int main()
 {
     int a;
     int b;
-
+    // this program is for adding two numbres
     cout << "enter value of a :" << endl;
     cin >> a;
     cout << "enter value of b :" << endl;
